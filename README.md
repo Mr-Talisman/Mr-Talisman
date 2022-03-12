@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-Talisman
-- 👀 I’m interested in statistics, machine learning, data science, music, and game development
+- 👀 I’m interested in music and game development
 - 🌱 I’m currently learning C# within the framework of the Unity game engine.
 - 📫 You can find me on Twitch, YouTube, or Twitter:
 - https://www.twitch.tv/mr_talisman
